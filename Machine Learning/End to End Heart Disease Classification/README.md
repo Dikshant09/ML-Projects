@@ -13,9 +13,9 @@ Way 2 :
     Anaconda (mini + takes 300mb space) with given packages.
     
  
-install numpy
-install pandas
-install scikitlearn
-install matplotlib
-install seaborn
+install numpy,
+install pandas,
+install scikitlearn,
+install matplotlib,
+install seaborn,
 install catboost (optional)
