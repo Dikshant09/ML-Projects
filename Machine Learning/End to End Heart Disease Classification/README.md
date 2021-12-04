@@ -10,7 +10,7 @@ Way 1 :
     Anaconda (Complete + takes 2.9gb space) 
 or 
 Way 2 : 
-    Anaconda (mini + takes 300mb space) with given packages.
+    Anaconda (mini + takes 1.3gb space) with given packages.
     
  
 install numpy,
