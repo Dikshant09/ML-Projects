@@ -7,4 +7,3 @@ NOTE : before opening end-to-end-bulldozer-price-regression plz make sure that u
 Due to 25mb size restriction i made a zip of data file. If zip files aren't working then download all the data material from google drive link....
 
 https://drive.google.com/drive/folders/1nTu3TtWmsBAmzt5NWGDa47RfDTPbXTTM?usp=sharing
-
