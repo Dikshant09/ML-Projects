@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 
-    <title>Website 2.9</title>
+    <title>TextUtils</title>
   </head>
   <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -38,7 +38,7 @@
 
 
 <div class="alert alert-success alert-dismissible fade show" role="alert">
-  <strong>Welcome to Textutils</strong> You can do anything with your text here!
+  <strong>Welcome to Textutils</strong> 
   <button type="button" class="close" data-dismiss="alert" aria-label="Close">
     <span aria-hidden="true">×</span>
   </button>
@@ -50,7 +50,12 @@
   <form action='/analyze' method='post'> {% csrf_token %} 
 
   <div class="form-group">
-    <label for="exampleFormControlTextarea1">Enter your text here and let Text Utils do the magic</label>
+    <strong>
+      <marquee behavior="scroll" direction="left" scrollamount="10">
+        <label for="exampleFormControlTextarea1">Enter your text here and let Text Utils do the magic</label>
+        You can do anything with your text here!
+      </marquee>
+    </strong>
     <textarea class="form-control" name='text' id="exampleFormControlTextarea1" rows="9"></textarea>
   </div>
 
