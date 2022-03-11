@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+h1{
+  font-family: 'League Spartan', sans-serif;
+  font-size: 72px;
+  color:#95dada;
+}
 
 .App-logo {
   height: 40vmin;
