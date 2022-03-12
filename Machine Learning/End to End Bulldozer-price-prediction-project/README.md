@@ -4,6 +4,4 @@ https://www.kaggle.com/c/bluebook-for-bulldozers/overview
 
 NOTE : before opening end-to-end-bulldozer-price-regression plz make sure that u have ur own conda enviroment including numpy, pandas, scikit-learn, matplotlib libraries...
 
-Due to 25mb size restriction i made a zip of data file. If zip files aren't working then download all the data material from google drive link....
-
-https://drive.google.com/drive/folders/1nTu3TtWmsBAmzt5NWGDa47RfDTPbXTTM?usp=sharing
+Download all data from : https://www.kaggle.com/c/bluebook-for-bulldozers/data
