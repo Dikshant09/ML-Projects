@@ -9,7 +9,7 @@ It was implemented using using pandas, numpy, matplotlib, sckit-learn & MobileNe
 This model is capable of recognizing 120 breeds of dogs.
 <br/>
 
-Plz, make sure that before opening `end-to-end-dog-breed-identification` file notebook your anaconda enviornment is configured and all the required packages are installed.
+Plz, make sure that before opening `end-to-end-dog-breed-identification` notebook your anaconda enviornment is configured and all the required packages are installed.
 
 Required Tools and Packages are :
 install anaconda with below packages : 
