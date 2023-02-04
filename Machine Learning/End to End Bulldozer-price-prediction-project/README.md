@@ -1,9 +1,10 @@
-Hi, 
-In this project, I solved Blue Book for bulldozers from Kaggle, hope u like it...
-https://www.kaggle.com/c/bluebook-for-bulldozers/overview
+Bulldozer price prediction model: It can redict the sale price of bulldozers sold at auctions. It was implemented using pandas, numpy, matplotlib, sckit-learn.
 
-In this project a regression model is created to predict the sale price of bulldozers sold at auctions. It was implemented using pandas, numpy, matplotlib and model from sckit-learn
-<br />
-NOTE : before opening end-to-end-bulldozer-price-regression plz make sure that u have ur own conda enviroment including numpy, pandas, scikit-learn, matplotlib libraries...
+Plz, make sure that before opening end-to-end-heart-bulldozer-regerssion model u have created ur enviorment and installed all the required packages...
 
-Download all data from : https://www.kaggle.com/c/bluebook-for-bulldozers/data
+Required Tools and Packages are :
+install anaconda with below packages : 
+numpy, pandas, scikitlearn, matplotlib, seaborn, catboost (optional)
+
+<br/>
+Kaggle : https://www.kaggle.com/c/bluebook-for-bulldozers/overview
