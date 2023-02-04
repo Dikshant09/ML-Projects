@@ -2,7 +2,7 @@
 
 Problem Statement: Identifying the breed of a dog given an image of the dog.
 <br/>
-The data we’re using from Kaggle dog breed identification competition.
+The data we’re using is from the Kaggle dog breed identification competition.
 <br/>
 It was implemented using using pandas, numpy, matplotlib, sckit-learn & MobileNet V2 model is taken from the Tensorflow hub.
 <br/>
